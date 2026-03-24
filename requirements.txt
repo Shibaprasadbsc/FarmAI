@@ -1,0 +1,17 @@
+# FarmAI Backend — Python dependencies
+# Install all with:  pip install -r requirements.txt
+
+# Core web framework
+flask==3.0.3
+flask-cors==4.0.1         # allows frontend to call backend from different port
+
+# Translation (wraps Google Translate for free)
+deep-translator==1.11.4
+
+# Phase 3 — AI model (uncomment when training the model)
+# tensorflow==2.15.0
+# numpy==1.26.4
+# Pillow==10.3.0           # image loading
+
+# Utilities
+python-dotenv==1.0.1      # for environment variables (API keys etc.)
