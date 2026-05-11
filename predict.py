@@ -71,8 +71,8 @@ CLASS_MAPPING = {
     "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)":
         "Grape Leaf Blight",
 
-    "Orange___Haunglongbing_(Citrus_greening)":
-        "Orange Haunglongbing",
+    "Orange___Huanglongbing_(Citrus_greening)":
+        "Orange Huanglongbing",
 
     "Peach___Bacterial_spot":
         "Peach Bacterial Spot",
